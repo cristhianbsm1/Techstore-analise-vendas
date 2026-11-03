@@ -4,15 +4,15 @@ Projeto de análise de vendas utilizando MySQL e Power BI, com consultas SQL, in
 Dashboard Power BI
 O projeto conta com três páginas de análise, desenvolvidas no Power BI para facilitar a visualização dos indicadores e a identificação de padrões de desempenho nas vendas.
 
-1. Visão Geral\
+1. Visão Geral:\
 Apresenta os principais indicadores de desempenho, incluindo faturamento total, quantidade de vendas, unidades comercializadas e ticket médio, além da distribuição do faturamento por diferentes dimensões comerciais.
 ![Dashboard - Visão Geral](Imagens/01_Dashboard_Analise_Geral.png)
 
-2. Análise Comercial
+2. Análise Comercial:\
 Apresenta o desempenho e a concentração do faturamento entre produtos, clientes e vendedores, permitindo identificar os principais responsáveis pela geração de receita.
 ![Dashboard - Análise Comercial](Imagens/02_Dashboard_Analise_Comercial.png)
 
-3. Análise Temporal
+3. Análise Temporal:\
 Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar os resultados mensais, a quantidade de vendas e o comportamento do ticket médio.
 ![Dashboard - Análise Temporal](Imagens/03_Dashboard_Analise_Temporal.png)
 
