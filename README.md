@@ -20,21 +20,22 @@ Principais Indicadores e Insights
 
 -Indicadores Gerais
 
-Faturamento total = R$ 1.253.113,44 
-Quantidade de vendas = 500 
-Unidades vendidas = 1.228 
-Ticket médio = R$ 2.506,23 
+Indicador                                         Resultado
+Faturamento total                              R$ 1.253.113,44
+Quantidade de vendas                           500 
+Unidades vendidas                              1.228 
+Ticket médio                                   R$ 2.506,23 
 
 -Principais Insights
 
-- Concentração de clientes: os cinco clientes com maior faturamento representam 85,27% da receita total, indicando uma alta concentração.
-- Concentração de produtos: os cinco produtos com maior faturamento representam 85,59% da receita, indicando uma alta concentração.
-- Desempenho dos vendedores: os cinco vendedores com maior faturamento concentram 79,63% da receita, indicando uma alta concentração.
-- Região de destaque: A região que se destacou foi a Sul com faturamento de R$ 484.784,84, resultando em 38,69% do faturamento total, indicando uma concentração significativa.
-- Vendedor de destaque: Principal vendedor foi Gabriel Costa da região Centro-Oeste com faturamento de 249.665,66 e uma participação de 19,92% no faturamento total, uma concentração significativa.
+- Concentração de clientes: os cinco clientes com maior faturamento representam 85,27% da receita total, indicando uma alta concentração entre os principais compradores.
+- Concentração de produtos: os cinco produtos com maior faturamento representam 85,59% da receita, indicando uma alta concentração entre os principais produtos.
+- Concentração dos vendedores: os cinco vendedores com maior faturamento concentram 79,63% da receita, indicando uma alta concentração entre os principais vendedores.
+- Região de destaque: A região que se destacou foi a Sul com faturamento de R$ 484.784,84, equivalente a 38,69% da receita total, indicando uma concentração significativa.
+- Vendedor de destaque: Gabriel Costa, da região Centro-Oeste, liderou o faturamento individual entre os vendedores, com R$ 249.665,66, representando 19,92% da receita total.
 - Categoria de destaque: A categoria de Notebooks liderou o faturamento, totalizando R$ 762.920,00, equivalente a 60,88% da receita total. Essa concentração pode ser explicada pelo maior valor unitário dos produtos dessa categoria, indicando que produtos de maior valor têm forte influência sobre o resultado financeiro da empresa.
-- Produto de destaque: o Notebook Dell Inspiron liderou o faturamento, totalizando R$ 472.360,00, equivalente a 37,69% da receita total,  Esse resultado pode estar relacionado ao seu elevado valor unitário.
-- Desempenho temporal: janeiro de 2026 registrou o maior faturamento mensal, com R$ 51.602,14, impulsionado pela combinação do maior volume de vendas junto com março de 2026 no período e combinado com um ticket médio relativamente alto, diferente de março.
+- Produto de destaque: o Notebook Dell Inspiron liderou o faturamento individual entre os produtos, totalizando R$ 472.360,00, equivalente a 37,69% da receita total, Seu elevado valor unitário pode ter contribuido para esse resultado.
+- Desempenho temporal: janeiro de 2026 registrou o maior faturamento mensal, com R$ 51.602,14. O resultado foi favorecido pela combinação de um elevado volume de vendas e um ticket médio relativamente alto. Embora março de 2026 tenha apresentado uma quantidade de vendas semelhante, seu ticket médio esteve entre os menores do período, contribuindo para um faturamento inferior.
 
 Os resultados evidenciam uma concentração significativa do faturamento nos principais clientes, produtos e vendedores, permitindo identificar os grupos que mais contribuem para o desempenho comercial.
 
