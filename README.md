@@ -21,10 +21,10 @@ Principais Indicadores e Insights
 -Indicadores Gerais
 
 Indicador                                         Resultado
-Faturamento total                              R$ 1.253.113,44 \n
-Quantidade de vendas                           500 \n
-Unidades vendidas                              1.228 \n
-Ticket médio                                   R$ 2.506,23 \n
+Faturamento total                              R$ 1.253.113,44 \
+Quantidade de vendas                           500 \
+Unidades vendidas                              1.228 \
+Ticket médio                                   R$ 2.506,23 \
 
 -Principais Insights
 
