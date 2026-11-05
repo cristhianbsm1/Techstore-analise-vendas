@@ -24,7 +24,7 @@ Indicador                                         Resultado
 Faturamento total                              R$ 1.253.113,44 \
 Quantidade de vendas                           500 \
 Unidades vendidas                              1.228 \
-Ticket médio                                   R$ 2.506,23 \
+Ticket médio                                   R$ 2.506,23 
 
 -Principais Insights
 
