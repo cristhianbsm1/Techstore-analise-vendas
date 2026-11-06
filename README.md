@@ -29,14 +29,12 @@ Ticket médio                                   R$ 2.506,23
 -Principais Insights
 
 - Clientes: Bruno Ferreira liderou o faturamento individual entre os clientes, totalizando R$ 466.909, equivalente a 37,25% da receita total. Seu ticket médio de R$ 9.338 foi aproximadamente 3,7 vezes superior ao ticket médio geral. Os três clientes com maior faturamento representam 30% da base e geram 69,75% da receita total, indicando uma alta concentração entre os principais compradores, mesmo com uma base de apenas 10 clientes.
-- 
+  
 - Produtos: o Notebook Dell Inspiron liderou o faturamento individual entre os produtos, totalizando R$ 472.360,00, equivalente a 37,69% da receita total, Seu elevado valor unitário contribuiu para esse resultado. Os três produtos com maior faturamento representam 30% da base e geram 70,75% da receita, indicando uma alta concentração entre os principais produtos, mesmo com uma base de apenas 10 produtos.
   
-- Concentração dos vendedores: os três vendedores com maior faturamento representam 37,5% da base e geram 54.79% da receita, indicando uma alta concentração entre os principais vendedores, mesmo com uma base de apenas 8 vendedores.
+- Vendedores: Gabriel Costa da região Centro-Oeste, liderou o faturamento individual entre os vendedores, com R$ 249.665,66, representando 19,92% da receita total. Os três vendedores com maior faturamento representam 37,5% da base e geram 54.79% da receita, indicando uma alta concentração entre os principais vendedores, mesmo com uma base de apenas 8 vendedores.
   
-- Região de destaque: A região que se destacou foi a Sul com faturamento de R$ 484.784,84, equivalente a 38,69% da receita total, indicando uma concentração significativa.
-  
-- Vendedor de destaque: Gabriel Costa, da região Centro-Oeste, liderou o faturamento individual entre os vendedores, com R$ 249.665,66, representando 19,92% da receita total.
+- Regiões: A região com maior faturamento foi a Sul com faturamento de R$ 484.784,84, equivalente a 38,69% da receita total, favorecido pela combinação da alta quantidade de vendas 188 com um ticket médio justo de R$ 2.578, o Sudeste tem o segundo maior faturamento R$ 330.826,10, favorecido pela alta quantidade de vendas 188 porem o ticket médio foi baixo R$ 1.758 e não favoreceu tanto, o terceiro maior faturamento R$ 249.665 e do Centro-Oeste, teve o maior ticket médio R$ 4.026 mas a baixa quantidade de vendas 62 atrapalhou o faturamento, o pior faturamento R$ 187.836 foi do Nordeste, teve um bom ticket médio R$ 3.023 porem a quantidade de vendas 62 afundou o faturamento.
   
 - Categoria de destaque: A categoria de Notebooks liderou o faturamento, totalizando R$ 762.920,00, equivalente a 60,88% da receita total. Essa concentração pode ser explicada pelo maior valor unitário dos produtos dessa categoria, indicando que produtos de maior valor têm forte influência sobre o resultado financeiro da empresa.
   
