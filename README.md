@@ -28,9 +28,9 @@ Ticket médio                                   R$ 2.506,23
 
 -Principais Insights
 
-- Concentração de clientes: os três clientes com maior faturamento representam 69,65% da receita total, mesmo com uma base de apenas 10 clientes, indicando uma alta concentração entre os principais compradores.
-- Concentração de produtos: os três produtos com maior faturamento representam 59,75% da receita, mesmo com uma base de apenas 10 produtos, indicando uma alta concentração entre os principais produtos.
-- Concentração dos vendedores: os três vendedores com maior faturamento concentram 79,63% da receita, mesmo com uma base de apenas 8 produtos, indicando uma alta concentração entre os principais vendedores.
+- Concentração de clientes: os três clientes com maior faturamento representam 30% da base e geram 69,75% da receita total, indicando uma alta concentração entre os principais compradores, mesmo com uma base de apenas 10 clientes.
+- Concentração de produtos: os três produtos com maior faturamento representam 30% da base e geram 70,75% da receita, indicando uma alta concentração entre os principais produtos, mesmo com uma base de apenas 10 produtos.
+- Concentração dos vendedores: os três vendedores com maior faturamento representam 37,5% da base e geram 54.79% da receita, indicando uma alta concentração entre os principais vendedores, mesmo com uma base de apenas 8 vendedores.
 - Região de destaque: A região que se destacou foi a Sul com faturamento de R$ 484.784,84, equivalente a 38,69% da receita total, indicando uma concentração significativa.
 - Vendedor de destaque: Gabriel Costa, da região Centro-Oeste, liderou o faturamento individual entre os vendedores, com R$ 249.665,66, representando 19,92% da receita total.
 - Categoria de destaque: A categoria de Notebooks liderou o faturamento, totalizando R$ 762.920,00, equivalente a 60,88% da receita total. Essa concentração pode ser explicada pelo maior valor unitário dos produtos dessa categoria, indicando que produtos de maior valor têm forte influência sobre o resultado financeiro da empresa.
