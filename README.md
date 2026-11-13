@@ -25,7 +25,10 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 | Faturamento total | R$ 1.253.113,44 |
 | Quantidade de vendas | 500 |
 | Unidades vendidas | 1.228 |
-| Ticket médio | R$ 2.506,23 |
+| Ticket Médio por venda| R$ 2.506,23 |
+| Média de unidades por venda | 2,45 |
+| Ticket Médio por unidade | R$ 1.020,45 |
+
 
 -**Principais Insights**
 
@@ -34,9 +37,9 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
   - Em comparação com a Camila Rocha 2 maior faturamento de R$ 285.209 (22,76% da receita). Ambos realizaram a mesma quantidade de compras e apresentaram valores médios por unidade parecidos. Entretanto, Bruno comercializou 50% mais unidades por compra, resultando em um um ticket médio por compra 63,7% superior ao de Camila. Essa diferença evidencia como a maior quantidade de unidades por transaçao contribuiu para o maior faturamento de bruno.
   - Os três clientes com maior faturamento representam 30% da base e geram 69,75% da receita total, indicando uma alta concentração entre os principais compradores.
   
-- **Produtos:** o Notebook Dell Inspiron liderou o faturamento individual entre os produtos, totalizando R$ 472.360,00 (37,69% da receita), Seu elevado valor unitário contribuiu para esse resultado. Os três produtos com maior faturamento representam 30% da base e geram 70,75% da receita, indicando uma alta concentração entre os principais produtos.
+- **Produtos:** o Notebook Dell Inspiron liderou o faturamento individual entre os produtos, totalizando R$ 472.360,00 (37,69% da receita). Seu elevado valor unitário contribuiu para esse resultado. Os três produtos com maior faturamento representam 30% da base e geram 70,75% da receita, indicando uma alta concentração entre os principais produtos.
   
-- **Vendedores:** Gabriel Costa da região Centro-Oeste, liderou o faturamento individual entre os vendedores, com R$ 249.665,66 (19,92% da receita). Os três vendedores com maior faturamento representam 37,5% da base e geram 54.79% da receita, indicando uma alta concentração entre os principais vendedores.
+- **Vendedores:** Gabriel Costa da região Centro-Oeste, liderou o faturamento individual entre os vendedores, com R$ 249.665,66 (19,92% da receita). com uma quantidade de vendas dentro da media,. Os três vendedores com maior faturamento representam 37,5% da base e geram 54.79% da receita, indicando uma alta concentração entre os principais vendedores.
   
 - **Regiões:** 
   -  **Sul** liderou o faturamento, com R$ 484.784,84 (38,69% da receita total). Registrou 188 vendas, a mesma quantidade do Sudeste, mas comercializou 492 unidades, uma média de unidades por venda 6,55% superior à média da empresa. Apesar de apresentar o menor valor médio por unidade vendida, 3,44% abaixo da média, teve um ticket médio de R$ 2.578, 2,87% superior ao da empresa. Esse resultado indica que o maior volume de unidades comercializadas por transação compensou o menor valor médio por unidade, contribuindo para o maior faturamento da região.
