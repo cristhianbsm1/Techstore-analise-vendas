@@ -34,6 +34,7 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 
 - **Categoria de destaque**
   - A categoria de Notebooks liderou o faturamento, totalizando R$ 762.920,00 (60,88% da receita). Essa concentração pode ser explicada pelo maior valor unitário dos produtos dessa categoria, indicando que produtos de maior valor têm forte influência sobre o resultado financeiro da empresa.
+  - Monitores teve o segundo maior faturamento, com R$ 241.681,26 (19,28%). Também teve o segundo maior valor unitário dos produtos da categoria, confirmando o valor dos produtos tem forte influencia no faturamento.
 
 - **Produtos**
   - o Notebook Dell Inspiron liderou o faturamento individual entre os produtos, totalizando R$ 472.360,00 (37,69% da receita). teve 50 transações, dentre elas foram vendidas 146 unidades, uma média  de unidades por venda, 19,18% superior a da empresa, o preço do produto é de R$3.500, contando com desconto, promoções ou ate alterações de preço ao longo do tempo o valor médio cobrado por unidade foi de R$3.235, as transações tiveram um ticket médio de R$9.447. O produto se destacou pelo preço mais alto de um produto, combinado com um alto numero de unidades vendidas, elevando o ticket médio por venda.
