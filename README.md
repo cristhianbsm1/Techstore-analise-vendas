@@ -25,9 +25,9 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 | Faturamento total | R$ 1.253.113,44 |
 | Quantidade de vendas | 500 |
 | Unidades vendidas | 1.228 |
-| Ticket Médio por venda| R$ 2.506,23 |
-| Média de unidades por venda | 2,45 |
-| Ticket Médio por unidade | R$ 1.020,45 |
+| Ticket Médio por transação| R$ 2.506,23 |
+| Média de unidades por transação | 2,45 |
+| Valor Médio por unidade vendida | R$ 1.020,45 |
 
 
 -**Principais Insights**
