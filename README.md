@@ -33,8 +33,9 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 -**Principais Insights**
 
 - **Categoria de destaque**
-  - A categoria de Notebooks liderou o faturamento, totalizando R$ 762.920,00 (60,88% da receita). Essa concentração pode ser explicada pelo maior valor unitário dos produtos dessa categoria, indicando que produtos de maior valor têm forte influência sobre o resultado financeiro da empresa.
-  - Monitores teve o segundo maior faturamento, com R$ 241.681,26 (19,28%). Também teve o segundo maior valor unitário dos produtos da categoria, confirmando o valor dos produtos tem forte influencia no faturamento.
+  - A categoria de Notebooks liderou o faturamento, totalizando R$ 762.920,00 (60,88% da receita). Teve 100 transações, 244 unidades vendidas, aproximadamente a mesma media da empresa, com um ticket médio por unidade de R$3.126, 306,47% superior a media da empresa, com ticket médio de R$ 7.629,20, 304% acima da empresa. A concentração do faturamento pode ser explicada pelo maior valor unitário dos produtos dessa categoria, indicando que produtos de maior valor têm forte influência sobre o resultado financeiro da empresa.
+  - Monitores teve o segundo maior faturamento, com R$ 241.681,26 (19,28% da receita). Com a mesma quantidade de vendas que os notebooks, apenas 2 unidades vendidas a mais, o segundo maior preço médio por unidade de R$ 982,44, 68,58% inferior ao dos notebooks,  . Teve o segundo maior valor unitário dos produtos da categoria, confirmando que o valor dos produtos tem forte influencia no faturamento.
+  - As três categorias com maior faturamento representam 30% da base e geram 88.88% da receita, indicando uma alta concentração entre os principais produtos.
 
 - **Produtos**
   - o Notebook Dell Inspiron liderou o faturamento individual entre os produtos, totalizando R$ 472.360,00 (37,69% da receita). teve 50 transações, dentre elas foram vendidas 146 unidades, uma média  de unidades por venda, 19,18% superior a da empresa, o preço do produto é de R$3.500, contando com desconto, promoções ou ate alterações de preço ao longo do tempo o valor médio cobrado por unidade foi de R$3.235, as transações tiveram um ticket médio de R$9.447. O produto se destacou pelo preço mais alto de um produto, combinado com um alto numero de unidades vendidas, elevando o ticket médio por venda.
