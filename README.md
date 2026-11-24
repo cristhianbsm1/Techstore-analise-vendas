@@ -66,5 +66,10 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 
 - Os resultados evidenciam uma concentração significativa do faturamento nos principais clientes, produtos e vendedores, permitindo identificar os grupos que mais contribuem para o desempenho comercial.
 
+Conclusão
+- A analise permitiu identificar os principais fatores que influenciam o desempenho comercial da Techstore, evidenciando uma concentração significativa do faturamento nos principais clientes, produtos e vendedores. Os resultados tambem demonstram que o faturamento não depende apenas da quantidde de vendas, mas da combinação entre volume de transações, unidades comercializadas por venda e valor médio dos produtos.
+- As analises possibilitaram identificar os principais responsáveis pela geração de receita, comparar o desempenho entre diferntes dimensões comerciais e compreender melhor os fatores que contribuem para os resultados da empresa.
+- O projeto proporcionou a aplicação prática de SQL e Power BI na exploração, análise e visualização de dados, transformando informações de vendas em indicadores e insights que apoiam a tomada de decisões.
+
 **Observação** 
   - Os dados utilizados neste projeto são fictícios e foram criados para fins de estudo e demonstração de habilidades em análise de dados.
