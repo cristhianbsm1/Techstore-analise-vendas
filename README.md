@@ -18,7 +18,7 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 
 **Principais Indicadores e Insights**
 
--**Indicadores Gerais**
+- **Indicadores Gerais**
 
 | Indicador | Resultado |
 |:--|--:|
@@ -30,7 +30,7 @@ Apresenta a evolução do faturamento ao longo do tempo, permitindo acompanhar o
 | Valor Médio por unidade vendida | R$ 1.020,45 |
 
 
--**Principais Insights**
+- **Principais Insights**
 
 - **Categoria de destaque**
   - Notebooks liderou o faturamento entre as categorias, totalizando R$ 762.920,00 (60,88% da receita). Registrou 100 transações e 244 unidades comercializadas, volume próximo a media de unidades por transação da empresa, com um ticket médio por unidade de R$3.126, 306,47% superior a media da empresa, e um ticket médio por transação de R$ 7.629,20, 304% acima da media. Esses resultados indicam que o elevado valor médio dos produtos da categoria teve forte influencia sobre seu faturamento.
